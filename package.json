@@ -1,0 +1,11 @@
+{
+  "name": "6ees6ees6ees",
+  "private": true,
+  "scripts": {
+    "test": "http-server -c-1"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
