@@ -8,6 +8,7 @@
 // [X] a honeyPot property that is set to 0
 // [X] a makeHoney method that adds 1 to that honeyBee’s honeyPot
 // [X] a giveHoney method that subtracts 1 from that honeyBee’s honeyPot
+// 🐝
 class HoneyMakerBee extends Bee {
   constructor(){
     super();

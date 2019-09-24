@@ -3,6 +3,7 @@
 // [X] a color property that is set to pink
 // [X] a food property that is set to jelly
 // [X] an eat method that returns 'Mmmmmmmmm jelly'
+// 🐝
 class Grub {
   constructor(){
     this.age = 0;

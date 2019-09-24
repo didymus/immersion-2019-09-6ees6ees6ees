@@ -5,6 +5,7 @@
 // [X] a food property that is inherited from grub
 // [X] an eat method that is inherited from grub
 // [X] a job property that is set to Keep on growing
+// 🐝
 class Bee extends Grub {
   constructor(){
     super();

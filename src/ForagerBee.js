@@ -8,6 +8,7 @@
 // [X] a canFly property that is set true
 // [X] a treasureChest property that is set to an empty array[]
 // [X] a forage method that allows the bee to add a treasure to the treasureChest
+// 🐝
 class ForagerBee extends Bee{
   constructor(){
     super();
